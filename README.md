@@ -52,6 +52,9 @@ A pesar de su apariencia implacable, Verónica lucha constantemente con el peso 
 
 ### Conflicto 
 
+La historia gira en torno a una amenaza que pone en peligro la seguridad nacional: una organización secreta que busca desestabilizar el gobierno y que está vinculada al asesinato de sus padres. Mientras Verónica se infiltra en esta red criminal, descubre que algunos miembros del sistema que juró proteger están corrompidos, lo que la obliga a cuestionar en quién puede confiar. A medida que se acerca a la verdad, debe decidir si seguirá obedeciendo las órdenes de sus superiores o si actuará por cuenta propia, arriesgándose a convertirse en el mismo tipo de enemigo que combate.
+
+Este dilema moral, sumado a la revelación de secretos de su pasado, la lleva a enfrentarse no solo a poderosos adversarios, sino también a su propia identidad y a las consecuencias de sus acciones.
 
 ### Productos
 
