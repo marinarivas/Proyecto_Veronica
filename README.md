@@ -33,7 +33,7 @@ Su última misión la lleva a descubrir una conspiración que involucra no solo 
 
 ### Personaje
 
-![](img-nobody.png)
+![Verónica Solís](Ficha_personaje_Veronica.jpeg)
 
 ### Historia
 
