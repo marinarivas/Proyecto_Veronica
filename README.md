@@ -45,10 +45,11 @@ Durante años, Verónica se sometió a un riguroso entrenamiento que la convirti
 
 Aunque es conocida por su precisión letal y su frialdad en el campo, en su interior Verónica guarda una profunda lealtad hacia sus compañeros agentes y un amor inquebrantable por su país. Cada misión que emprende está impulsada por la promesa de hacer justicia y evitar que otros sufran las mismas pérdidas que ella vivió.  
 
-A pesar de su apariencia implacable, Verónica lucha constantemente con el peso de las decisiones que debe tomar. Sabe que cada enemigo que elimina deja una marca en su conciencia, pero está dispuesta a sacrificar su propia paz para proteger a quienes no pueden defenderse. Su lema, **"El silencio es mi arma, la justicia mi guía"**, refleja su compromiso con una causa mayor, incluso si eso significa operar desde las sombras y arriesgarlo todo.
+A pesar de su apariencia implacable, Verónica lucha constantemente con el peso de las decisiones que debe tomar. Sabe que cada enemigo que elimina deja una marca en su conciencia, pero está dispuesta a sacrificar su propia paz para proteger a quienes no pueden defenderse.
 
 ### TagLine
 
+Su lema, **"El silencio es mi arma, la justicia mi guía"**, refleja su compromiso con una causa mayor, incluso si eso significa operar desde las sombras y arriesgarlo todo.
 
 ### Conflicto 
 
