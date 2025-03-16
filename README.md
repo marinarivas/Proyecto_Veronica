@@ -37,13 +37,7 @@ Su última misión la lleva a descubrir una conspiración que involucra no solo 
 
 ### Historia
 
-Verónica Solís creció en un entorno difícil, marcado por la pérdida de sus padres a manos de una organización criminal. Desde joven, desarrolló un fuerte sentido de la justicia y una determinación inquebrantable para proteger a los más vulnerables. Su inteligencia, astucia y habilidades físicas la llevaron a ser reclutada por una agencia secreta de seguridad nacional.  
 
-Durante años, Verónica se sometió a un riguroso entrenamiento que la convirtió en una maestra del sigilo, el combate cuerpo a cuerpo y la infiltración. Aprendió a disfrazarse y a mimetizarse con cualquier entorno, lo que la hacía prácticamente indetectable. Además, perfeccionó sus habilidades como hacker, permitiéndole acceder a información clasificada y desmantelar redes criminales desde las sombras.  
-
-Aunque es conocida por su precisión letal y su frialdad en el campo, en su interior Verónica guarda una profunda lealtad hacia sus compañeros agentes y un amor inquebrantable por su país. Cada misión que emprende está impulsada por la promesa de hacer justicia y evitar que otros sufran las mismas pérdidas que ella vivió.  
-
-A pesar de su apariencia implacable, Verónica lucha constantemente con el peso de las decisiones que debe tomar. Sabe que cada enemigo que elimina deja una marca en su conciencia, pero está dispuesta a sacrificar su propia paz para proteger a quienes no pueden defenderse.
 
 ### TagLine
 
