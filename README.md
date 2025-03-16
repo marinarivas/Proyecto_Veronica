@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Marina Rivas Arellano
 
 
-Proyecto (código): 
+Proyecto (VeronicaSolis): 
 URL (link) del proyecto en Github: 
 
 
