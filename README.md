@@ -27,9 +27,7 @@ Tipo/Género:
 
 ## Resumen
 
-Verónica Solís, una agente de élite entrenada en sigilo, combate e infiltración, dedica su vida a la justicia tras perder a sus padres a manos de una organización criminal. Reclutada por una agencia secreta, se convierte en una asesina letal y maestra del disfraz, utilizando sus habilidades para eliminar amenazas y proteger a su país. Sin embargo, cada misión la sumerge más en un mundo de sombras donde la línea entre el bien y el mal se vuelve difusa.  
-
-Su última misión la lleva a descubrir una conspiración que involucra no solo a sus enemigos, sino también a figuras corruptas dentro de su propia agencia. A medida que desentraña la verdad, Verónica se enfrenta a una decisión que definirá su destino: obedecer órdenes y seguir el camino que le impusieron o rebelarse y actuar por cuenta propia, aunque eso la convierta en una fugitiva. Dividida entre la lealtad y su propio código moral, se enfrenta a su mayor desafío: seguir siendo humana en un mundo que la empuja a convertirse en un arma sin alma.
+Verónica Solís, es una asesina altamente entrenada y toda una maestra del sigilo con una eficacia letal. Capaz de acabar con su objetivo con una precisión despiadada y de mimetizarse con cualquier entorno, dedica su vida a la justicia tras perder a sus padres a manos de una organización criminal. Reclutada por una agencia secreta utiliza sus habilidades para eliminar amenazas y proteger a su país y a sus compañeros. Sin embargo, cada misión la sumerge más en un mundo de sombras donde la línea entre el bien y el mal se vuelve difusa.  
 
 ### Personaje
 
