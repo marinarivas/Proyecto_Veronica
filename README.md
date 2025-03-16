@@ -1,8 +1,7 @@
 
 # Proyecto Verónica Solís 
-### my_storytelling
 
-#Veronica Solís: Creatividad e innovación Audiovisual, repositorio de proyectos y documentación en https://github.com/mgea/storytelling
+#Veronica Solís: [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 Autores:  
 <!---
@@ -16,8 +15,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Marina Rivas Arellano
 
 
-Proyecto (VeronicaSolis): 
-[URL del proyecto en Github](https://github.com/marinarivas/VeronicaSolis)  
+Proyecto (VeronicaSolis): (https://github.com/marinarivas/VeronicaSolis)  
 
 
 Tipo/Género:  
