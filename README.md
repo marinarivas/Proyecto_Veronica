@@ -2,7 +2,7 @@
 # Proyecto Verónica Solís 
 ### my_storytelling
 
-
+#Veronica Solís: Creatividad e innovación Audiovisual, repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 Autores:  
 <!---
