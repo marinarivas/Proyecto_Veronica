@@ -17,7 +17,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (VeronicaSolis): 
-URL (link) del proyecto en Github: 
+[URL (link) del proyecto en Github:](https://github.com/marinarivas/VeronicaSolis)  
 
 
 Tipo/Género:  
