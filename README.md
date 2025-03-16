@@ -59,8 +59,7 @@ Este dilema moral, sumado a la revelación de secretos de su pasado, la lleva a 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) https://github.com/marinarivas/VeronicaSolis/blob/main/Descubre%20si%20escapar%C3%ADas%20del%20juicio%20de%20Ver%C3%B3nica%20Sol%C3%ADs%2C%20%C2%BFaguantar%C3%ADas%20viv%40%20.h5p
- 
+- Personaje: (img personaje y enlace a interactivo) 
 
 
 - Banner/Teaser:  (enlace) 
