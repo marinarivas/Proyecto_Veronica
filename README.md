@@ -47,7 +47,7 @@ La historia gira en torno a una amenaza que pone en peligro la seguridad naciona
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://app.lumi.education/h5p/descubre-si-escaparas-del-juicio-de-vernica-sols-aguantaras-viv-el1zg7  
 
 
 - Banner/Teaser:  (enlace) 
