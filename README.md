@@ -53,7 +53,7 @@ La historia gira en torno a una amenaza que pone en peligro la seguridad naciona
 - Teaser: https://www.figma.com/community/file/1500990285011962009/veronica  
 
 
-- Storytelling (Renpy'): carpeta game 
+- Storytelling (Renpy'): via Prado
 
 
 
