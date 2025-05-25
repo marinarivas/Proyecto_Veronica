@@ -54,8 +54,9 @@ La historia gira en torno a una amenaza que pone en peligro la seguridad naciona
 
 
 - Storytelling (Renpy'): carpeta game
-- "C:\Users\Utente\Downloads\Veronica-1.0-pc.zip"
-- "C:\Users\Utente\Downloads\renpy-8.3.7-sdk"
+"C:\Users\Utente\Downloads\Veronica-1.0-pc.zip"
+  
+"C:\Users\Utente\Downloads\renpy-8.3.7-sdk"
 
 
 ### Conclusiones/Valoración del equipo
