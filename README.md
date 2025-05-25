@@ -3,11 +3,7 @@
 
 #Proyecto Verónica: [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
-Autores:  
-<!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
--->
+Autoras:  
 
 - :woman: Aida Escudero
 - :woman: Alice Bettini
@@ -22,7 +18,6 @@ Tipo/Género:
 - [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
 - [x] Comic
-
 
 
 ## Resumen
@@ -50,12 +45,13 @@ La historia gira en torno a una amenaza que pone en peligro la seguridad naciona
 - Personaje: https://app.lumi.education/h5p/descubre-si-escaparas-del-juicio-de-vernica-sols-aguantaras-viv-el1zg7  
 
 
-- Teaser: https://www.figma.com/community/file/1500990285011962009/veronica  
+- Teaser: https://www.figma.com/community/file/1500990285011962009/veronica
+
+  
+- ArcWave: https://arcweave.com/app/project/MJ09m9m0Oe
 
 
 - Storytelling (Renpy'): carpeta game
-
-
 
 
 ### Conclusiones/Valoración del equipo
