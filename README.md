@@ -53,9 +53,7 @@ La historia gira en torno a una amenaza que pone en peligro la seguridad naciona
 - Banner/Teaser:  (enlace) 
 
 
-- Storytelling: (enlace) 
-
-- Ren'py : carpeta game 
+- Storytelling (Renpy'): carpeta game 
 
 
 
