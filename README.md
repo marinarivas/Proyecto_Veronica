@@ -35,7 +35,7 @@ Verónica Solís, es una asesina altamente entrenada y toda una maestra del sigi
 
 ### Historia
 
-
+Verónica Solís es una asesina altamente entrenada y experta en el sigilo, que dedica su vida a la justicia tras perder a sus padres a manos de una organización criminal. Reclutada por una agencia secreta, usa sus habilidades para eliminar amenazas y proteger a su país, aunque cada misión la arrastra más a un mundo de sombras donde la línea entre el bien y el mal se difumina. Su nueva misión la enfrenta a una organización secreta que amenaza la seguridad nacional y que está vinculada al asesinato de sus seres queridos. Al infiltrarse, descubre que miembros del propio sistema están corrompidos, lo que la obliga a cuestionar en quién puede confiar. En su búsqueda de la verdad, Verónica deberá superar complejos acertijos en la mansión de su enemigo, El Cuervo, para recuperar archivos clave sobre la corrupción que consume su mundo. Esta travesía la enfrentará no solo a poderosos enemigos, sino también a su propia identidad y al dilema de seguir órdenes o actuar por cuenta propia.
 
 ### TagLine
 
